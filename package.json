@@ -1,0 +1,16 @@
+{
+  "name": "wingsfromtheone",
+  "version": "1.0.0",
+  "description": "Wings site for Zack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kenny",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^13.6.0"
+  }
+}
